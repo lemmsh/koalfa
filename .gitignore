@@ -1,0 +1,8 @@
+.cursorignore
+.gradle/
+.idea/
+.vscode/
+build/
+gradle/
+gradlew
+gradlew.bat
