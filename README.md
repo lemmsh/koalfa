@@ -6,7 +6,7 @@ A DSL for access control provides a mental model which is natural for those fami
 Koalfa is tailored to overcome some of the limitations of ALFA, particularly its inability to reuse policies as functions within policy sets. 
 Additionally, Koalfa introduces a concept of policy reversal, which is particularly useful for integrating access control policies with databases. This allows for the application of policies to not just individual access requests but also to database mechanisms like ClickHouse row-level policies.
 
-This is research project, but it may be used in production with seemingly minimal effort. If you decide to try that please share your experience via pull requests or issues. 
+This is a research project, but it may be used in production with seemingly minimal effort. If you decide to use Koalfa in production, please share your experiences through pull requests or issues. 
 
 The codebase is structured into several Kotlin files:
 
